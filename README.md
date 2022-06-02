@@ -1,6 +1,6 @@
 # Team-Roguelike-Survivors
 
-##팀 로그라이크 서바이버즈
+## 팀 로그라이크 서바이버즈
 
 [Download Demo Game](https://drive.google.com/file/d/1Aiczev-C4L6hJvfSdWBU6LBe5vHf4765/view?usp=sharing)
 
