@@ -1,6 +1,6 @@
 # Team-Roguelike-Survivors
 
-Unity 엔진을 기반의 로그라이크(Roguelike) 장르와 디펜스(Defense) 장르의 융합형 게임입니다.
+Unity 엔진을 기반으로 제작한 로그라이크(Roguelike) 장르와 디펜스(Defense) 장르의 융합형 게임입니다.
 
 <br/>
 
